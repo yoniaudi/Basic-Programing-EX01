@@ -17,16 +17,16 @@
       
 # Ex01_02 - Diamond for begginers
   Write a program that prints a rhombus of asterisks as shown bellow:
-  ...
-      *
-     ***
-    *****
-   *******
-  *********
-   *******
-    *****
-     ***
-      *
+...
+//      *
+//     ***
+//    *****
+//   *******
+//  *********
+//   *******
+//    *****
+//     ***
+//      *
 ...
 # Ex01_03 - Diamond for advanced
   Write a program that will work as the previous task (diamond for begginers) but instead it will get the height of the rhombus from the user input.
